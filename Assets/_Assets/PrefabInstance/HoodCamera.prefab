@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1491966156210361}
+  m_IsPrefabParent: 1
+--- !u!1 &1491966156210361
+GameObject:
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4049263524663278}
+  - component: {fileID: 114578708633357714}
+  - component: {fileID: 54255208193646612}
+  m_Layer: 8
+  m_Name: HoodCamera
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4049263524663278
+Transform:
+  m_GameObject: {fileID: 1491966156210361}
+  m_LocalRotation: {x: 1.19209275E-07, y: 9.3132246E-10, z: 5.587935E-09, w: 1}
+  m_LocalPosition: {x: -0.21156597, y: 0.801, z: -0.356}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 1.3660377E-05, y: -1.06721615E-07, z: -6.403302E-07}
+--- !u!114 &114578708633357714
+MonoBehaviour:
+  m_GameObject: {fileID: 1491966156210361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb71b0f8e22e7414098ca23cec5b283d, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+--- !u!54 &54255208193646612
+Rigidbody:
+  m_GameObject: {fileID: 1491966156210361}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 1
+  m_Constraints: 0
+  m_CollisionDetection: 0

@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: IceCream_Truck_Wheel_Front_R
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 144
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 62
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.13686782, y: 0.36225408, z: 0.34643924}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 3
+  m_IsReadable: 0
+  m_KeepVertices: 0
+  m_KeepIndices: 0
+  m_IndexFormat: 0
+  m_IndexBuffer: 0000010002000000020003000100040002000100050004000600070008000600080009000a000b000c000a000c000d000e000f0010000e0010001100120013001400120014001500130016001400130017001600180019001a0018001a001b001c001d001e001c001e001f002000210022002000220023002400250026002400260027002800250024002800290025002a00290028002a002b0029002c002b002a002c002a002d002e002f0030002e003000310030003200310031003200330034003100330034003500310035002e0031003000360032003700360030002f00370030003700380036003200360039003300320039003a003900360038003a0036003a003b0039003c00330039003b003c0039003c003d0033003d0034003300
+  m_Skin: []
+  m_VertexData:
+    serializedVersion: 2
+    m_VertexCount: 0
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 0
+    _typelessdata:
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 186
+      m_Range: 0.72450817
+      m_Start: -0.36225408
+      m_Data: 3e9dc18c4f6a5970a95a165c7a0633979aca814fa672e093a91cf824ba36978aaecda5a672e093e8daf8f43f8297fe8fe0a5a26be3d3ff08fa84f9cc97623ef3a5ff23e813e633fb5469fa97569afea598cf7c6956e3fb94d5f83e6535be4f5d947c6917255f9ad5f83e7551b24f00dc772900f75dda45c93e01709f4f673073e919cc5c0ac07d3e99ca814f98cfecd3ff08fa24ba363ea965814f95a6efd319ccf894d5f83e7551b24f00dc77e919cc5caa9605c11a6847b0880456e87f0a061b11d0977651f2a500dc17ecde8e5d6a2a07978aae4db0e3227de9ff085e8af9cc97569afea5598d0f
+      m_BitSize: 10
+    m_UV:
+      m_NumItems: 248
+      m_Range: 0.9871409
+      m_Start: 0.00390625
+      m_Data: e241e264ff64ff41ff8fe28fe28fe2b1ffb1ff8fffb7ff8ee28ee2b7ff8eff66e266e28effb1ff8ee28ee2b1e263ff63ff63ff41e241e263ffb7ff8ee28ee2b7ff8eff66e266e28e76467e1182257f3a6b467605633a6b0563125f267fba99dda8cb8296a87b903f7e44757fcd94b8ddd1b8bf3ddb7cd142b71e981fae2dd62dd659ae59fe59fe2d83acacacacd883d8acacd4acd4d8acd8fe2cd62cd600fe00d62cae2cae00d6008500852cd4abacabac7fd47facab83ab837fac7f852dae2dae59855976970c972d7f557f82bd00bd76e30ce32dfb55fb0d66003f1230256843406068577e2e7e420d0c182e00723056007818843f7866
+      m_BitSize: 8
+    m_Normals:
+      m_NumItems: 124
+      m_Range: 1.8847057
+      m_Start: -0.88478523
+      m_Data: c5525cb22523b2599445e9d8322d9b8eedec312ed3ce5ec0f11ce3055c90b119cf31555885e5143112534ee100f110230e502c32120f4559c0ceeed8c55590c552584ee10032225bbff76bbff76f31120f7f289b32fd83311ecfb11953
+      m_BitSize: 6
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 62
+      m_Data: 00c8fd9f601a1038
+      m_BitSize: 1
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 144
+      m_Data: 402000c21010425010c6811848a22c8cc234ce033950244d94445593454d9785651aa66d5ce771de078622288e646992e68996249a966a8aaa6bcaae2aabb6ee0bbb700ccb712ccf743cd3755cbb316ccbb70dbf377ce3b66ce7b39cebb98debb6bee7fc9cef7ccef7734fcf
+      m_BitSize: 6
+    m_UVInfo: 85
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.13686782, y: 0.36225408, z: 0.34643924}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "553001769212",
+    "project_id": "bus-parker-3dparking-bus-game",
+    "storage_bucket": "bus-parker-3dparking-bus-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553001769212:android:94115951d52c25ad0c1f79",
+        "android_client_info": {
+          "package_name": "com.gamerz.bus.parker.simulation.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553001769212-usl01btkg76vgdov0lsqibs2l92bsjkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3u9xtuuYLJfmQskjXvGQbQBTWT41bgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553001769212-usl01btkg76vgdov0lsqibs2l92bsjkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553001769212:android:25eaf8f3d65fd1fe0c1f79",
+        "android_client_info": {
+          "package_name": "com.gamerz.car.parking.jam.sim.car.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553001769212-usl01btkg76vgdov0lsqibs2l92bsjkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3u9xtuuYLJfmQskjXvGQbQBTWT41bgjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553001769212-usl01btkg76vgdov0lsqibs2l92bsjkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
